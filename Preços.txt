@@ -1,0 +1,30 @@
+Arroz (5 kg) - R$ 20,00
+Feijão (1 kg) - R$ 8,00
+Macarrão (500 g) - R$ 5,00
+Açúcar (1 kg) - R$ 4,00
+Sal (1 kg) - R$ 2,00
+Óleo de soja (900 ml) - R$ 6,00
+Leite (1 L) - R$ 4,50
+Queijo muçarela (300 g) - R$ 15,00
+Presunto (300 g) - R$ 12,00
+Ovos (cartela com 12) - R$ 10,00
+Manteiga (200 g) - R$ 7,00
+Pão (500 g) - R$ 6,00
+Tomate (1 kg) - R$ 8,00
+Cebola (1 kg) - R$ 4,00
+Batata (1 kg) - R$ 5,00
+Cenoura (1 kg) - R$ 4,00
+Maçã (1 kg) - R$ 6,00
+Banana (1 kg) - R$ 4,00
+Laranja (1 kg) - R$ 5,00
+Frango (1 kg) - R$ 12,00
+Carne bovina (1 kg) - R$ 40,00
+Linguiça (1 kg) - R$ 25,00
+Salsicha (500 g) - R$ 10,00
+Atum em conserva (170 g) - R$ 7,00
+Molho de tomate (340 g) - R$ 5,00
+Maionese (500 g) - R$ 6,00
+Mostarda (200 g) - R$ 3,00
+Ketchup (400 g) - R$ 7,00
+Detergente (500 ml) - R$ 4,00
+Sabão em pó (1 kg) - R$ 10,00
