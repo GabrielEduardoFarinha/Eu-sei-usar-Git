@@ -61,3 +61,35 @@ Ketchup (400 g) - $1,40
 Detergente (500 ml) - $0,80
 Sabão em pó (1 kg) - $2,00
 Quiabo (1 kg) - $ 2,00
+-----------------------------------------------------------------------------
+Arroz (5 kg) - €3,64
+Feijão (1 kg) - €1,45
+Macarrão (500 g) - €0,91
+Açúcar (1 kg) - €0,73
+Sal (1 kg) - €0,36
+Óleo de soja (900 ml) - €1,09
+Leite (1 L) - €0,82
+Queijo muçarela (300 g) - €2,73
+Presunto (300 g) - €2,18
+Ovos (cartela com 12) - €1,82
+Manteiga (200 g) - €1,27
+Pão (500 g) - €1,09
+Tomate (1 kg) - €1,45
+Cebola (1 kg) - €0,73
+Batata (1 kg) - €0,91
+Cenoura (1 kg) - €0,73
+Maçã (1 kg) - €1,09
+Banana (1 kg) - €0,73
+Laranja (1 kg) - €0,91
+Frango (1 kg) - €2,18
+Carne bovina (1 kg) - €7,27
+Linguiça (1 kg) - €4,55
+Salsicha (500 g) - €1,82
+Atum em conserva (170 g) - €1,27
+Molho de tomate (340 g) - €0,91
+Maionese (500 g) - €1,09
+Mostarda (200 g) - €0,55
+Ketchup (400 g) - €1,27
+Detergente (500 ml) - €0,73
+Sabão em pó (1 kg) - €1,82
+Quiabo (1 kg) - €1,80
