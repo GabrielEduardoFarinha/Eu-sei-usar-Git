@@ -6,15 +6,15 @@ Sal (1 kg) - R$ 2,00
 Óleo de soja (900 ml) - R$ 6,00
 Leite (1 L) - R$ 4,50
 Queijo muçarela (300 g) - R$ 15,00
-Presunto (300 g) - R$ 12,00
-Ovos (cartela com 12) - R$ 10,00
+Presunto (300 g) - R$ 10,00
+Ovos (cartela com 12) - R$ 12,00
 Manteiga (200 g) - R$ 7,00
 Pão (500 g) - R$ 6,00
 Tomate (1 kg) - R$ 8,00
 Cebola (1 kg) - R$ 4,00
 Batata (1 kg) - R$ 5,00
-Cenoura (1 kg) - R$ 4,00
-Maçã (1 kg) - R$ 6,00
+Cenoura (1 kg) - R$ 5,00
+Maçã (1 kg) - R$ 7,00
 Banana (1 kg) - R$ 4,00
 Laranja (1 kg) - R$ 5,00
 Frango (1 kg) - R$ 12,00
