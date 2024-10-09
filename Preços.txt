@@ -28,7 +28,7 @@ Mostarda (200 g) - R$ 3,00
 Ketchup (400 g) - R$ 7,00
 Detergente (500 ml) - R$ 4,00
 Sabão em pó (1 kg) - R$ 10,00
-Quiabo (1 kg) - R$ 20,00
+Quiabo (1 kg) - R$ 18,00
 ----------------------------------------------------
 Arroz (5 kg) - $4,40
 Feijão (1 kg) - $1,60
@@ -60,7 +60,7 @@ Mostarda (200 g) - $0,60
 Ketchup (400 g) - $1,40
 Detergente (500 ml) - $0,80
 Sabão em pó (1 kg) - $2,00
-Quiabo (1 kg) - $4,00
+Quiabo (1 kg) - $3,00
 --------------------------------------------------------------------------------
 Arroz (5 kg) - €4,00
 Feijão (1 kg) - €1,45
@@ -92,4 +92,4 @@ Mostarda (200 g) - €0,55
 Ketchup (400 g) - €1,27
 Detergente (500 ml) - €0,73
 Sabão em pó (1 kg) - €1,82
-Quiabo (1 kg) - €3,64
+Quiabo (1 kg) - €3,00
